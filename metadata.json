@@ -1,0 +1,15 @@
+{
+  "name": "rneighbors-ssh",
+  "version": "1.0.0",
+  "author": "rneighbors",
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rneighborsphone/puppet-ssh",
+  "project_page": "https://github.com/rneighborsphone/puppet-ssh",
+  "issues_url": "https://github.com/rneighborsphone/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
